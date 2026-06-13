@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme{
+  --color-primary:#1E40AF;
+  --color-secondary:#F97316;
+  --color-accent:#F1F5F9;
+  --color-neutral:#0F172A;
+  --font-montserrat:"Montserrat",sans-serif;
+  --font-inter:"Inter",sans-serif;
+}
